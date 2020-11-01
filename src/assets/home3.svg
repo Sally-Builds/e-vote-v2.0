@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="63px" viewBox="0 0 60 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-voter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eBallot_Homepage_md_2b" transform="translate(-232.000000, -1647.000000)">
+            <g id="Experience" transform="translate(0.000000, 1214.000000)">
+                <g id="icon-voter" transform="translate(233.000000, 434.000000)">
+                    <polygon id="Stroke-1" stroke="#183E76" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="58 61 0 61 5.47169811 43 52.5283019 43"></polygon>
+                    <path d="M27.6518065,31 L30.7194839,35.8233684 C31.9566452,37.7697368 31.394,40.3582632 29.4625806,41.605 C27.5322581,42.8517368 24.9636129,42.2858421 23.7264516,40.3394737 L19.5532258,33.7775263 C19.008129,32.9176316 18.8304516,31.9383684 18.9478065,31 L13,31 L13,52 L47,52 L47,31 L27.6518065,31 Z" id="Fill-3" fill="#A4D7F4"></path>
+                    <path d="M24.1907528,23.8418932 L30.845907,36.3642017 C32.0508053,38.4992291 31.3017547,41.2121922 29.1752033,42.4225227 C27.0475455,43.6317418 24.3478653,42.8804255 23.1429671,40.7431752 L17.552195,31.0660882 L11.8751216,25.3634198 C11.2522036,24.7376934 10.8538901,23.9208037 10.7454603,23.0416747 L9.0327124,9.28125037 C8.83023639,7.65302797 9.579287,6.05370234 10.9578942,5.17235055 L18.0102554,0.664452881 C19.6820656,-0.404727977 21.868364,-0.163551006 23.2690997,1.24349989 L41.6822463,19.7396619 C42.5253431,20.5865598 43,21.7368739 43,22.9360903 L43,31.0660882" id="Stroke-5" stroke="#183E76" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M11,52.5 L47,52.5" id="Stroke-7" stroke="#183E76" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
